@@ -1,0 +1,5 @@
+Nombre: -- Wendy Loaiza Fernandez 
+Carrera: -- Desarrollo de Software Multiplataforma 
+Concepto aprendido -- Aprendi a como hacer colaboradores en github y a clonar una repo de
+ comandos y en visual hacer una rama 
+ 
