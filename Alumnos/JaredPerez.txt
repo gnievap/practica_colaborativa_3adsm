@@ -1,0 +1,4 @@
+Nombre: -- Jared Alan Perez Pichardo 
+Carrera: -- TIADSM
+Concepto aprendido: Clonar repos, agregar
+colaboradorees, trabajar con un repo compartido
