@@ -1,0 +1,3 @@
+Nombre: -- Mayra Gonzalez Ronquillo
+Carrera: -- TIADSM
+Concepto aprendido -- Clonar repos, agregar colaboradores, trabajar con un repo compartido
