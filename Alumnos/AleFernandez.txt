@@ -1,0 +1,5 @@
+Nombre: -- Alexia Fernandez Nava 
+Carrera: -- Desarrollo de Software Multiplataforma
+Concepto aprendido -- Aprendi a como clonar repo con comandos, agregar colaboradores al repo,
+                      crear una rama.  
+                      
