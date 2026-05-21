@@ -1,0 +1,3 @@
+ Nombre: -- Kevin Valentin Rocha Sanchez
+Carrera: -- TIADSM
+Concepto aprendido -- Clonar reps, agregar colaboradores, trabajar con un repo compartido
