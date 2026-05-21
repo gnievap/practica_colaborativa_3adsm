@@ -1,0 +1,4 @@
+Nombre: -- Oliver Isaac Avalos Paredes
+Carrera: -- Desarrollo de Software Multiplataforma
+Concepto aprendido: -- Clonar repos, agregar 
+colaboradores, trabajar con un repo compartido
