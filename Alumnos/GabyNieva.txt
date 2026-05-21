@@ -1,0 +1,4 @@
+Nombre: -- Gabriela Nieva Paredes
+Carrera: -- Ingeniería en computación
+Concepto aprendido -- Clonar repos, agregar
+colaboradores, trabajar con un repo compartido
