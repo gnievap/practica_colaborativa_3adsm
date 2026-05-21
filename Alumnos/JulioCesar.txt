@@ -1,0 +1,3 @@
+Nombre: -- Julio Cesar Ceron Contreras
+Carrera: -- Desarrollo de software multiplataforma
+Concepto aprendido: -- Clonar Repos, agregar colaboradores, trabajar con un repo compartido
