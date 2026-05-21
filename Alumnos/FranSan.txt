@@ -1,0 +1,3 @@
+Nombre: -- Francisco Javier Sánchez Islas
+Carrera: -- TI Desarrollo de Software Multilataforma
+Concepto aprendido -- Clonar repositorios, agregar colaboradores, trabajar con un repositorio compartido 
